@@ -5,10 +5,10 @@ Java Implementation of Numerical Methods.
 1. Exponential Function
 2. Natural Logarithm
 3. Trigonometric Functions
+4. Nth root calculation
+5. Lagrange's Interpolation
 
 ### Will be Added
-1. Nth root calculation
-2. Lagrange's Interpolation
-3. Newton's Interpolation
-4. Finite Differences of First Order
+1. Newton's Interpolation
+2. Finite Differences of First Order
 
